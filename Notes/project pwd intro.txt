@@ -1,0 +1,126 @@
+Project
+
+Mentoring : regulation, intro, group, case study, sch
+
+15+5 hari kerja, M1-3 + tableu
+
+5 hari prep
+
+10 hari - 4x60 min mentoring -> notebook github, dataset complex, macam2 masalah dan solusi clustering, classification, text processing, regression, etc. pilih 1 saja yang align dengan goal.
+
+5 hari ppt + diskusi agar paham seluruh project.
+
+
+mentoring sess -> sch check, jgn dadak
+ijin, absen
+technical issue, problem solving focus
+zoom meet : Questions, notes, findings, etc.
+diluar jam mentor dijawab tapi gak pasti or slow respond
+
+
+final ppt, defense / sidang:
+bergantian, siap jawab Q&A - boleh yang bagian bukan kita agar bisa ngerti seluruhnya
+
+nilai awal dari notebook proj.
+ppt 20 menit, Q&A 40 menit bisa ngaret lebih
+panel acedemic team pwd + criteria
+panel bukan mentor
+
+----
+Guide DS project:
+notebook
+vis - tableau
+content ppt
+
+standard penilaian
+example final proj.
+
+
+proj. quality
+standard project industrial- ds methodology
+portofolio -> junior ds/analyst
+
+---
+sch
+
+24 june 2024 =  kickstart
+25 june -1 = jul prep
+2-8 jul = bootcamp / proj. work
+
+15 jul = deadline 23.59 monday - submit email -> github pwd
+
+16 jul - 22 jul = ppt
+
+22 jul = deadline
+
+23,24 ~ 25,26 up to end of jul = final projc ppt
+
+1 group = 2 orang
+klo drop 1 hati2
+
+----
+dataset, group
+
+Beta = Robert, gretty
+
+https://docs.google.com/presentation/d/1m1l1dJpbKNWg79ETrgMMGO3SINZJRa43/edit?usp=sharing&ouid=115151551103009053586&rtpof=true&sd=true
+
+bank marketing campaign
+
+---
+
+mentoring buat jadi goals juga -> 4th session sudah final
+biar ga deadline
+
++ 1 final mentoring after deadline notebook
+practice ppt
+
+tableau plus story dan di repo
+
+email sama dengan capstone repo dikasih pwd
+isi di sini buat dapet link
+https://docs.google.com/spreadsheets/d/1QzHs9L1g9OS7y2LNMmij2OAdGEeEQfvT6blODRwSS74/edit?gid=0#gid=0
+
+
+--
+Guideline pdf
+problem -> data, kalau di industri
+di project data dulu kita cari problem
+
+notebook
+tableau
+ppt
+
+materi random dari kelas juga ada e.g.
+recall, precision ? anggap orang awam / dasar harus tahu semua yang terkait dengan materi selama ini terutama yang dipakai tapi siapkan yang random juga
+---
+biar gak rancu ka, tadi untuk pertanyaan random di sidang, kalau detil dari metode yang kita tidak pakai bakal ditanya gak ka?
+
+Seperti contohnya tiba2 ada pertanyaan pengaruh epsilon di dbscan misalnya walau kita tidak pakai metode yang itu?
+-> cara kerja bisa jadi ditanya tapi yang berkaitan yang sudah di kelas, bedanya apa antara metode gitu2
+
+teori dasar kelas kuncinya
+penulisan testing etc
+query mysql
+visualisasi
+
+classification -> metric? truth table, confidence matrix
+predict probability? lebih dari berapa jadi classified jadi A atau B
+
+dict, list bedanya, etc
+
+jangan ngeblank kalau tegang
+---
+
+6-8 malam
+j-6 hour kabarin ka grace operational dan hardiv mentor
+
+
+grup wa bisa ka grace buatin
+
+klo drop solo kerjain ya -> PCN lifelong ya
+
+
+final score 80 accumulate dari awal kemarin
+
+ppt+Q&A sama kerjaan 

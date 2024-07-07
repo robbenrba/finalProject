@@ -1,0 +1,21 @@
+kita nunggu kak Gretty ya mas
+
+You  to  Everyone 9:00 PM
+ok
+
+Median Hardiv Nugraha  to  Everyone 9:09 PM
+Missing Attribute Values: There are several missing values in some categorical attributes, all coded with the "unknown" label. These missing values can be treated as a possible class label or using deletion or imputation techniques.
+
+Median Hardiv Nugraha  to  Everyone 9:16 PM
+Title: Bank Marketing (with social/economic context)
+
+Median Hardiv Nugraha  to  Everyone 9:24 PM
+21 - y - has the client subscribed a term deposit? (binary: "yes","no")
+If after all marking afforts client had agreed to place deposit - target variable marked 'yes', otherwise 'no'
+
+Median Hardiv Nugraha  to  Everyone 9:52 PM
+https://www.bca.co.id/en/Individu/produk/pinjaman/Pinjaman-Personal
+https://www.bca.co.id/en/Individu/produk/pinjaman/KPR
+
+Median Hardiv Nugraha 10:13 PM
+&rtpof=true&sd=true

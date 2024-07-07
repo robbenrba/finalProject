@@ -1,0 +1,173 @@
+Data related
+-default col ( banyak missing)
+-unknown yang lain diapain (job,education,default*,housing-loan)
+-col yang kira2 gak dipake (etika, invalid, terlalu banyak missing)
+-col target? [y?]
+
+loan ada yg coeff 1
+pola dari yes no cek - belom tentu loan sama
+
+business related
+-context,target
+-problem, goal, approach
+-metric* : berdasar req. business ~ confusion matrix weighting
+portugal business reqs ? stakeholder u/ berikan solution?
+f1-score? roc-auc ? trade-off, business req, interpret?
+
+hubungan dependent independent model jg sama trade off jg
+focus lebih baik, rumuskan business reqs (problem, goal)
+
+bkn hanya data analysis, descriptive analysis jg - model
+klo bisa terhubung tapi 2 juga boleh insight satu dari analysis dan model
+
+
+
+approach
+-bisa banyak problem, banyak metode ? (cuma terhadap business nya)
+classification karena target term deposit bank account
+spesifik, explicit dari dataset = target udh jelas (deposit binary)
+
+default ini bisa di data analisis, topik, tujuan
+
+yes/no apa
+status yes? no? kondisinya apa setiap label- u/ pembeda
+jumlah yes, no, unknown di default :
+ mirip2? bisa lebih luas lagi kita telusuri
+
+additional
+-objective -> standard nilai ++
+-tableau - dashboard,story? , database? tidak masuk, coding program python bab 1 - yg kepake m2,m3
+-Q&A, ppt 
+
+-nilai tambahan : metric custom f2-score, etc seperti p-r curve/ roc-auc tapi bisa kita pakai misal average precision
+cari library, buat sendiri -> kasih tau limitasi waktu (fokus ke yg lbh perlu), ilmu dan proven juga agar lebih dipercaya
+
+, ensemble, etc. stacking, boosting, voting boleh
+
+---
+
+default- bayar tepat waktu atau tidak u/credit
+-> coba isi
+
+--> unknown = belum kredit (dari paper, data asli)
+salah input prob. kecil
+e.g. has default? -> ya/tdk -> unknown = gak punya kredit assumed
+
+---
+Missing Attribute Values: There are several missing values in some categorical attributes, all coded with the "unknown" label. These missing values can be treated as a possible class label or using deletion or imputation techniques.
+
+only some categorical - interpret each col pls
+
+domain, factual condition
+---
+
+housing loan (kpr) - yes, no, unknown
+loan etc juga
+
+marital - married, divorced, single, unknown? engaged
+portugal? pny anak dulu, etc
+
+education? missing?, unknown?, label alternate opt.?
+
+domain knowledge bank, portugal socio-economic, demographic
+
+
+--
+Title: Bank Marketing (with social/economic context)
+
+
+Sourse of the data
+https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+Citation Request:
+
+This dataset is public available for research. The details are described in S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014
+
+Title: Bank Marketing (with social/economic context)
+
+Sources
+Created by: Sérgio Moro (ISCTE-IUL), Paulo Cortez (Univ. Minho) and Paulo Rita (ISCTE-IUL) @ 2014
+
+term deposit - portugal check
+
+---
+
+bridge context -> problem statement
+
+
+selama ini NBP bank campaign gunakan metode ...
+dengan metode ... tidak terlalu efektif 
+
+citation [1]
+sumber :
+[1] ....
+
+cek sebut nama bank gak? boleh asumsikan bank utama/negara yang asli ada - strategi, model bisnis - tingkatkan profit .. segmen apa?
+
+e.g.
+BRI - umkm ~ pinjaman -> hasil bunga pinjaman = profit
+mandiri - b2b (nasabah bisnis) bkn b2c
+bni - remit, cabang luar banyak
+
+portugal?
+NBP - [hubungkan model kita ke model bisnis]
+...
+...
+
+stakeholder = divisi apa? sales-boost sales, marketing-boost sales+profit, business-boost profit(operating turunin,etc)?
+
+customer tujuan?
+
+sales profit, marketing cost
+
+ingin sebuah cara efisiensi marketing lebih tinggi..
+
+definisi sampe akar biar jelas
+e.g.
+subscribed ? other conditions?
+->melakukan deposito misal,
+
+instrumen investasi dari uang nasabah - profit bank
+5% per tahun naik janji, investasi profit brp -> revenue?
+
+investment instrument apa aja?
+low risk - low return
+high risk - high return?
+modenya apa? SBM, crypto, etc.
+
+client deposit:
+investment revenue -> cash flow
+loan -> interest revenue  -> cash flow
+
+tapi harus kalau client mau tarik harus ada dalam jangka waktu
+- saving -> bisa tarik
+- deposito -> bisa long term kalau tarik mungkin lama
+
+cek2 lagi perbankan, finance, etc.
+----
+
+loan type
+https://www.bca.co.id/en/Individu/produk/pinjaman/Pinjaman-Personal
+https://www.bca.co.id/en/Individu/produk/pinjaman/KPR
+
+-----
+
+Target:
+1. Domain knowledge : bank, business model of the bank, campaign deposit
+2. socio-economic di tahun itu - kaitkan ke transaction, demographic
+3. tentukan bank-nya apa : kalau bisa yang di riset
+4. pembagian tugas : 
+e.g.
+analysis, ML
+
+5. pelajari dataset : unknown definition per col. -> definisi fitur itu
+
+-----
+ka hardiv:
+up to jam 4 weekday gak bisa
+
+minggu, 7 jul 2024 : jam 8 WIB
+
+
+
+
