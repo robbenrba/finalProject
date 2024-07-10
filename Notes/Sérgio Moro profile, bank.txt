@@ -1,0 +1,39 @@
+He started his career in 2001 at Montepio Bank, where he remained until May/2016 as an Information Systems Coordinator in the Business Intelligence and Information Management Unit, including projects such as Analytical CRM, ALM, GRC and IRB. Previously, he was responsible for software development for the Bank's Contact Center, working also in projects such as Homebanking and the Corporate Web Site.
+
+Sérgio Moro
+https://ciencia.iscte-iul.pt/authors/smcmo/cv
+https://www.linkedin.com/in/scmoro/
+
+Banco Montepio
+
+Sérgio trabalhou durante 15 anos (2001-2016) no Banco Montepio
+
+from linkedin
+
+Sérgio is currently Full Professor of Business Intelligence and Data Science at ISCTE and Vice-President of the Scientific Council of ISCTE. He is former Deputy Director at ISTAR Research Center, where he coordinated the Information Systems group. 
+He was appointed as Honorary Professor of the University of Jordan in March 2024.
+
+He is an interdisciplinary data scientist that envisions the development of innovative predictive systems through data science approaches in distinct domains such as marketing, management, tourism, and education.
+
+His publication portfolio includes more than 50 Quartile 1 Scopus indexed articles in journals such as Expert Systems with Applications, International Journal of Information Management, Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, Neural Computing and Applications, Tourism Management, Journal of Business Research, Telematics and Informatics, Journal of Information Science, Decision Support Systems, European Journal of Marketing, and International Journal of Hospitality Management. His work has received more than 2600 Scopus (h-index=26) and more than 4800 Google Scholar (h-index=33) citations. He supervised 5 finished PhDs and is currently supervising 10 on-going PhD students.
+
+Sérgio holds Habilitation and PhD in Information Sciences and Technologies, and an MSc in Management Information Systems, from ISCTE-IUL, and also a 5 year BSc in Computer Engineering from Instituto Superior Técnico, University of Lisbon.
+
+He started his career in 2001 at Montepio Bank, where he remained until May/2016 as an Information Systems Coordinator in the Business Intelligence and Information Management Unit, including projects such as Analytical CRM, ALM, GRC and IRB. Previously, he was responsible for software development for the Bank's Contact Center, working also in projects such as Homebanking and the Corporate Web Site.
+
+For more details, please see: https://ciencia.iscte-iul.pt/authors/smcmo/cv
+---
+
+Sérgio Moro holds a 5 year degree diploma in Computer Engineering from Instituto Superior Técnico (Technical University of Lisbon), and a MSc in Management Information Systems from ISCTE — University Institute of Lisbon, where he is also a PhD researcher in the fields of business intelligence and decision support systems. He currently works in the Business Intelligence & Analytics team of a Portuguese bank, where he is responsible for projects such as GRC (Governance, Risk and Compliance), and ALM (Asset–Liability Management). Previously he was responsible for software development for the bank's contact center.
+---
+
+This study considers real data collected from a Portuguese retail
+bank, from May 2008 to June 2013, in a total of 52,944 phone contacts.
+The dataset is unbalanced, as only 6557 (12.38%) records are related
+with successes. For evaluation purposes, a time ordered split was initial-
+ly performed, where the records were divided into training (four years)
+and test data (one year). The training data is used for feature and model
+selection and includes all contacts executed up to June 2012, in a total of
+51,651 examples. The test data is used for measuring the prediction ca-
+pabilities of the selected data-driven model, including the most recent
+1293 contacts, from July 2012 to June 2013.

@@ -153,20 +153,49 @@ https://www.bca.co.id/en/Individu/produk/pinjaman/KPR
 -----
 
 Target:
-1. Domain knowledge : bank, business model of the bank, campaign deposit
-2. socio-economic di tahun itu - kaitkan ke transaction, demographic
+1. Domain knowledge : bank, business model of the bank, campaign deposit 
+= mutualist business model, mutual fund (customer owned/A mutual bank is a cooperative financial institution owned by its depositors or customers.) - ASSOCIAÇÃO MUTUALISTA https://www.montepio.org/en/ (Towards a more fair society - social sector of the economy)  - koperasi besar
+= Mortgage Loans (house), Term Deposits (secure investment options with fixed returns), SME Business Loans (UMKM)
+-> operation cost down tapi jangan sampai client annoyed dari campaign calls, citra bank -> f1-score bisa
+-> untuk rakyat, customer
+-> multidimensi lihatnya - performance, behaviour, impact bank-society -> product yang bisa dinikmati lebih luas, bukti dari data tapi
+
+2. socio-economic di tahun itu - kaitkan ke transaction, demographic 
+= annual reports and statements on web
+= post 2008 Financial Crisis - Sustainable and Social Investments
+
 3. tentukan bank-nya apa : kalau bisa yang di riset
-4. pembagian tugas : 
-e.g.
-analysis, ML
+Created by: Sérgio Moro (ISCTE-IUL), Paulo Cortez (Univ. Minho) and Paulo Rita (ISCTE-IUL) @ 2014
+= Sergio Moro -> Banco Montepio
+
+https://www.sciencedirect.com/science/article/abs/pii/S016792361400061X
+S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems (2014), doi:10.1016/j.dss.2014.03.001.
+=> a Portuguese bank, where he is responsible for projects such as GRC (Governance, Risk and Compliance), and ALM (Asset–Liability Management)
+
+https://ciencia.iscte-iul.pt/authors/smcmo/cv => He has worked for 15 years (2001-2016) at Montepio Bank, from which the last 3 and a half as a Business Intelligence and Analytics Project Coordinator, including projects such as Analytical CRM, IRB (internal ratings-based approach to capital requirements for credit risk), ALM (Asset-Liability Management), and GRC (Governance, Risk and Compliance).
+
+https://www.linkedin.com/in/scmoro/ => in 2001 at Montepio Bank, where he remained until May/2016 as an Information Systems Coordinator in the Business Intelligence and Information Management Unit, including projects such as Analytical CRM, ALM, GRC and IRB. Previously, he was responsible for software development for the Bank's Contact Center, working also in projects such as Homebanking and the Corporate Web Site.
+
+----
+https://www.linkedin.com/in/paulo-rita/ - prof
+https://www.linkedin.com/in/paulocortez/ - prof
+
+= ongoing EDA for more definite proof - by comparing client features distribution (age, job, education, other product Subscriptions e.g. loans) and whether is aligned with montepio reports and business model
+
+4. pembagian tugas : e.g. analysis, ML
+= determine 2 bullet points goals -> answer - still discuss if only addressed in analysis for 1 and the other in ML
 
 5. pelajari dataset : unknown definition per col. -> definisi fitur itu
+= ongoing - annual report, banking,financial,socio-economic terms, features, categorical labels 
 
 -----
 ka hardiv:
 up to jam 4 weekday gak bisa
 
-minggu, 7 jul 2024 : jam 8 WIB
+minggu, 7 jul 2024 : jam 20 WIB
+
+---
+jumat, 12 jul 2024 : jam 20 WIB - confirm ka gretty
 
 
 

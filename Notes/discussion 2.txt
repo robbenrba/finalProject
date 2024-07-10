@@ -1,0 +1,50 @@
+marital - bisa del dikit
+
+education system (portugal) - others?
+bisa ordinal - illiterate -> university (lebih tinggi hanya ke pendidikan)-> professional (lebih ke bisnis)
+-> capital level dari orang
+unknown = others atau missing (cek char., efek ke stats)  [1000s entry]
+
+default = unknown - no history
+
+loan - housing - not random tapi cek char. -> delete klo tdk signifikan
+
+month of last contact, day - seasonality
+duration = call duration -> hati2, exclude?
+bisa terlalu condong ke durasi
+-> kalau lama juga cost tinggi
+-> mau predict bukan yang sudah ada
+-> modeling exclude, analysis libatkan
+
+telp baru dilakukan kalau kita yakin customer pengen
+tapi model mau prediksi mau terima atau nggak !!
+
+
+number of contact - bisa promosi beda, bisa seperti duration
+cek corr dg term
+
+
+number of prec. contact (previous campaigns) - bisa lebih educated atau annoyed(spam)
+
+emp.var -> seberapa banyak yang direkrut perusahaan (+ berarti naik)
+>< pengangguran -> jual lesu, economy lesu, gak muter
+simpan asset
+e.g. covid
+-> depend on apa?
+
+socioeconomics -> null value, 
+explainable yakinkan
+-> keadaan saat campaign call,
+
+number of employees ?? 
+-> employed citizens (describe the city/place)
+
+----
+
+goal:
+1. pertanyaan2 dari fitur2 bisa dijawab di analysis
+2. promotion cost minimization
+
+--
+H-1 di isi email spreadsheet ada link github
+jumat ini -> tanya ke ka hardiv, grace, team it
