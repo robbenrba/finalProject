@@ -1,0 +1,113 @@
+explainable ML , extract decision tree
+
+
+duration 0 -> tidak dijawab atau < 1s
+duration > n seconds -> niat ada tapi ga jadi kalau no (cenderung tertarik bukan menerima)
+
+hubungkan dengan target y -> histogram aja cek
+
+contoh klasifikasi capstone 3
+https://drive.google.com/file/d/1BN_Aa2BQaqtK0jYYJ0kzvdNOJsyE59y7/view?usp=sharing
+
+duration - cek yang lain
+
+bisa cek data tapi hanya fenomena
+domain knowledge butuh atau riset efek feature ke target
+
+storytelling
+insightful? surprise? big news?
+-> buat apa? bisa diapain?
+
+beda pengalaman atau source population besar dengan data kita? kenapa? anomali? -> tujuan bisnis
+
+----
+
+
+duration pake binning boleh kalau gak tralu high correlation?
+
+outlier -> binning? gak perlu dihapus juga bisa
+tapi experiment boleh yg binning dan tanpa
+kolom transformer beda -> pipeline beda
+
+---
+
+binning, custom ordinal ->
+transformator atau nggak (diubah dulu atau custom transformator)
+asumsi itu mapping perusahaan untuk penggunaan lebih luas juga, pengelompokan kemampuan finansial. client paling menguntungkan
+
+
+cyclical sin cos boleh pake custom transformator boleh 
+-> experiment dengan transformer lain (one hot, ordinal etc)
+
+
+multicol, corr 
+feature eng. -> numerik -> VIF test (setelah col transform)
+
+categorical jg cek (gender,etc)
+
+----
+robustscaler ke smua encoding (dist ga normal)
+or
+robustscaler ke smua numerik
+
+klo yg lain udah keliatan gak normal, outlier, etc
+
+
+----
+random vs grid ?
+random bisa kalau gak sempet waktu
+---
+imblearn - smoteenn -> tengah2 oversampler, undersampler
+
+fb-score - make_scorer sklearn - custom metric
+-> lebih beratkan ke yang terima promosi
+minimize potential revenue loss !!
+precision atau recall yang dilihat? !! cek
+
+roc-auc bagus? karena lihat 2 kelas
+seperti accuracy
+-> seperti predict proba
+
+---
+streamlit klo udh ada link nanti.
+sav model aja dulu
+----
+confusion matrix dan domain knowledge
+model tanpa model
+
+revenue = 1 org terima brp revenue?
+op cost = biaya telp, biaya promosi
+klo gak nelpon
+false pos -> revenue ilang kare op cost yang percuma
+
+pakai yang di confusion matrix angka predicted actual etc
+profit = revenue - op cost
+---
+feature importance -> sort dari paling besar -> beri 3 paling tapi 
+klo binary gak bisa interpret -> e.g. salah satu atau lebih alamat mempengaruhi 
+--
+bonus
+predict_proba tiap model ada
+
+interpret jadi scatterplot
+
+x -> baris
+y -> predict proba 0~1
+
+bisa predict secara continue atau belum
+confident? scatter lebih banyak di 0 dan 1 
+
+===
+git merge?
+ipynb, etc. 
+IDE pycharm boleh, git versioning bagus
+
+gitkraken -> tools merge conflict
+=====
+minggu 14 jul 2024, jam 9.00 wib
+
+
+senin 15 jul 2024
+ppt deadline tgl 22 jul 2024 23.59
+
+sidang 24-26 jul 2024
